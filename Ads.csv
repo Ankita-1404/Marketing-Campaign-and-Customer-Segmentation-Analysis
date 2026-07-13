@@ -1,0 +1,34 @@
+ad_id,adgroup_id,ad_name,ad_format
+101,11,Train Strong,Video
+102,12,Court Control,Carousel
+103,12,Run Free,Image
+201,22,Train Strong,Video
+202,21,Court Control,Carousel
+203,23,Air Max Hype,Image
+301,32,Train Strong,Image
+302,32,Court Control,Image
+303,33,Air Max Hype,Carousel
+304,33,Train Strong,Carousel
+401,42,8K Clarity,Image
+402,43,Pro-Grade Camera,Image
+403,41,Galaxy Nightography,Image
+404,43,8K Clarity,Carousel
+501,53,Galaxy Nightography,Video
+502,52,Pro-Grade Camera,Carousel
+503,52,Galaxy Nightography,Carousel
+504,53,Galaxy Nightography,Carousel
+601,62,Galaxy Nightography,Video
+602,62,8K Clarity,Video
+603,61,SmartThings Home,Carousel
+604,61,Galaxy Nightography,Carousel
+701,73,Prime in 1 Click,Image
+702,72,Prime in 1 Click,Carousel
+703,73,Lightning Deals,Carousel
+704,72,Next-Day Delivery,Image
+801,82,Back-to-School Kits,Image
+802,81,Prime in 1 Click,Carousel
+803,81,Lightning Deals,Carousel
+901,91,Prime in 1 Click,Image
+902,92,Prime in 1 Click,Video
+903,92,Prime in 1 Click,Carousel
+904,91,Back-to-School Kits,Video
